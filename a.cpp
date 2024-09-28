@@ -3,7 +3,7 @@
 using namespace std;
 
 int m, n;
-
+//modified for R3 step
 
 void merge(int nums1[], int nums2[]) {
 	int k = 0;
